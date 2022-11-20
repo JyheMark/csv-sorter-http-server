@@ -12,3 +12,4 @@ Server responds 200OK with the sorted CSV in the body.
 - [x] Accept comma as delimiter
 - [x] Accept semicolon as delimiter
 - [ ] Accept tab as delimiter
+- [ ] Incoming CSV validation
